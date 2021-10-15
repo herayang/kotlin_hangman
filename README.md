@@ -7,7 +7,7 @@ A simple Kotlin application that plays hangman game, where users guess the word 
 
 YouTube demonstration: 
 
-[Software Demo Video](https://youtu.be/link)
+[Software Demo Video](https://youtu.be/5RKXBDG2eOs)
 
 
 
